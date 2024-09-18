@@ -20,7 +20,7 @@
                              // 'http://loinc.org|8480-6', //systolic blood pressure
                               'http://loinc.org|2085-9', //hdl
                               'http://loinc.org|2089-1', //ldl
-                              'http://loinc.org|85354-9] //blood pressure systolic and diastolic
+                              'http://loinc.org|85354-9'] //blood pressure systolic and diastolic
                       }
                     }
                   });
